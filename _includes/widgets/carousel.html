@@ -1,5 +1,5 @@
 <div>
-    <div id="{{ include.id | slugify }}" class="carousel slide" data-ride="carousel">
+    <div id="{{ include.id | slugify }}" class="carousel slide" data-ride="carousel" data-interval="2000">
         <ol class="carousel-indicators">
             {% for item in include.images %}
             <li data-target="#{{ include.id | slugify }}" data-slide-to="{{ forloop.index0 }}" {% if forloop.index == 1 %}class="active"{% endif %}></li>
