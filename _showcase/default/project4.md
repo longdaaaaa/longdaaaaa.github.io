@@ -11,11 +11,11 @@ images:
   title: 
 - src: assets/images/projects/project4/new.jpg
   title: 
-- src: assets/images/projects/project4/robot.jpg
+- src: assets/images/projects/project4/robot.JPG
   title: 
-- src: assets/images/projects/project4/robot2.jpg
+- src: assets/images/projects/project4/robot2.JPG
   title: 
-- src: assets/images/projects/project4/end.jpg
+- src: assets/images/projects/project4/end.JPG
   title: 
 ---
 

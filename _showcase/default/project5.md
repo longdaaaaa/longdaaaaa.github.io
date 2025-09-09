@@ -7,15 +7,15 @@ title: Project 4
 images:
 - src: assets/images/projects/project5/flow.png
   title: 
-- src: assets/images/projects/project5/process.jpg
+- src: assets/images/projects/project5/process.JPG
   title: 
 - src: assets/images/projects/project5/allarena.png
   title: 
 - src: assets/images/projects/project5/AMHS.png
   title: 
-- src: assets/images/projects/project5/results2.jpg
+- src: assets/images/projects/project5/results2.JPG
   title: 
-- src: assets/images/projects/project5/loop.jpg
+- src: assets/images/projects/project5/loop.JPG
   title: 
 - src: assets/images/projects/project5/control.png
   title: 
