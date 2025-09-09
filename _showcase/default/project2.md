@@ -1,21 +1,28 @@
 ---
 show: true
 width: 12
-date: 2024-02-12 00:01:00 +0800
+date: 2021-02-12 00:01:00 +0800
 height: 500px                     # 轮播区域的显示高度
 title: Project 1
 images:
-- src: assets/images/projects/overall.png
+- src: assets/images/projects/project2/1.png
   title: Overall Framework
   desc: 
   link: 
-- src: assets/images/projects/cross.png
-  title: XS Mechanisim
+- src: assets/images/projects/project2/2.png
+  title: Network
   desc:
-- src: assets/images/projects/network.png
-  title: Network Architecture
-- src: assets/images/projects/sotas.png
-  title: Performance
+- src: assets/images/projects/project3/wave.png
+  title: Wavelet Transform Matrix
+  desc:
+- src: assets/images/projects/project2/3.png
+  title: Skeletal Stream
+- src: assets/images/projects/project2/4.png
+  title: Task
+- src: assets/images/projects/project2/5.png
+  title: Aggregation Effect after FFT
+- src: assets/images/projects/project2/6.png
+  title: Kinematic Matrix
 ---
 
 <div class="card h-100 rounded-xl overflow-hidden">
@@ -28,12 +35,12 @@ images:
   <img data-src="assets/images/projects/cross.png" class="lazy w-100 rounded-xl-top" src="{{ '/assets/images/empty_300x200.png' | relative_url }}"> -->
   
   <div class="card-body">
-    <h5 class="card-title">LightPose: A Lightweight Fatigue-Aware Pose Estimation Framework</h5>
+    <h5 class="card-title">Deep Learning-Based Fatigue Detection Using Kinematic Information from Videos</h5>
     <p class="card-text">
-      <span style="color: #00bfa6;">LightPose</span> is a lightweight human pose estimation framework guided by bone segment principles. <span style="color: #00bfa6;">LightPose</span> is designed to balance spatial accuracy with computational efficiency, delivering pose quality comparable to recent sequence-based baselines while remaining lightweight enough for real-time, fatigue-aware analysis. The framework incorporates a dual-stream supervision mechanism that enforces local geometric consistency through mutual prediction between joint pairs on the same bone segment. Additionally, kinematic constraints and fatigue-relevant metric regulations are embedded within the training objective, promoting biomechanical plausibility and alignment with fatigue-related motion patterns. Experimental results on standard 3D pose estimation benchmarks demonstrate that <span style="color: #00bfa6;">LightPose</span> delivers competitive accuracy with reduced computational cost. Further evaluations confirm its effectiveness in estimating fatigue-related kinematic indicators, establishing its suitability for fatigue detection tasks. 
+      Detecting human fatigue in manufacturing scenarios has been a long-standing research focus, driven by its profound impact on worker welfare. Fatigue contributes to work-related accidents and long-term musculoskeletal disorders, underscoring the need for effective monitoring solutions. With advancements in deep learning and image processing technologies, fatigue detection methods are increasingly adopting noninvasive approaches. Such solutions minimize disruptions to workers’ activities while ensuring accurate monitoring. In this paper, we proposed a deep learning-based method that leverages motion and posture data extracted from videos to detect worker fatigue. This approach is both noninvasive and cost-effective, offering practical benefits for industrial applications. 
     </p>
     <p class="card-text">
-      The manuscript of this work is submitted to <code>Journal of Industrial Information Integration</code>. And the major revision has been completed. 
+      This work has contributed to a papar which was presented at <code>Proceedings of the Canadian Society for Mechanical Engineering International Congress</code> (Montreal, 2025).
     </p>
   </div>
 </div>
