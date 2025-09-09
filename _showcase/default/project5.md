@@ -6,21 +6,21 @@ height: 500px                     # 轮播区域的显示高度
 title: Project 4
 images:
 - src: assets/images/projects/project5/flow.png
-  title: 
+  title: Case Selection
 - src: assets/images/projects/project5/process.JPG
-  title: 
+  title: Overall Process
 - src: assets/images/projects/project5/allarena.png
-  title: 
+  title: Overall Model
 - src: assets/images/projects/project5/AMHS.png
   title: 
 - src: assets/images/projects/project5/results2.JPG
-  title: 
+  title: AMHS Logic Effect
 - src: assets/images/projects/project5/loop.JPG
-  title: 
+  title: Fatigue Module Design
 - src: assets/images/projects/project5/control.png
-  title: 
+  title: Fatigue Control Module
 - src: assets/images/projects/project5/results.png
-  title: 
+  title: Result
 ---
 
 <div class="card h-100 rounded-xl overflow-hidden">

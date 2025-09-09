@@ -6,17 +6,17 @@ height: 500px                     # 轮播区域的显示高度
 title: Project 4
 images:
 - src: assets/images/projects/project4/dahui.png
-  title: 
+  title: Exhibition
 - src: assets/images/projects/project4/task.jpg
-  title: 
+  title: Testing
 - src: assets/images/projects/project4/new.jpg
-  title: 
+  title: Testing
 - src: assets/images/projects/project4/robot.JPG
-  title: 
+  title: Structure
 - src: assets/images/projects/project4/robot2.JPG
-  title: 
+  title: Structure
 - src: assets/images/projects/project4/end.JPG
-  title: 
+  title: End Effector
 ---
 
 <div class="card h-100 rounded-xl overflow-hidden">

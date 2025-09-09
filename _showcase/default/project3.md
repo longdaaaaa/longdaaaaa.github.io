@@ -10,7 +10,7 @@ images:
   desc: 
   link: 
 - src: assets/images/projects/project3/B.jpg
-  title: On Conference
+  title: Presentation
   desc:
 - src: assets/images/projects/project3/C.jpg
   title: On Conference

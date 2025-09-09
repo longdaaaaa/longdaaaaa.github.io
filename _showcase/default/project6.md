@@ -6,19 +6,19 @@ height: 500px                     # 轮播区域的显示高度
 title: Project 6
 images:
 - src: assets/images/projects/project6/1.png
-  title: 
+  title: Overall Structure
 - src: assets/images/projects/project6/2.png
-  title: 
+  title: Rectifier Bridge Circuit
 - src: assets/images/projects/project6/3.png
-  title: 
+  title: Chopper Circuit
 - src: assets/images/projects/project6/4.png
-  title: 
+  title: Panel Design
 - src: assets/images/projects/project6/5.png
-  title: 
+  title: HiPIMS Power Supply
 - src: assets/images/projects/project6/6.png
-  title: 
+  title: Result
 - src: assets/images/projects/project6/7.png
-  title: 
+  title: Result
 ---
 
 <div class="card h-100 rounded-xl overflow-hidden">
