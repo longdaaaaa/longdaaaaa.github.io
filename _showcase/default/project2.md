@@ -40,7 +40,10 @@ images:
       Detecting human fatigue in manufacturing scenarios has been a long-standing research focus, driven by its profound impact on worker welfare. Fatigue contributes to work-related accidents and long-term musculoskeletal disorders, underscoring the need for effective monitoring solutions. With advancements in deep learning and image processing technologies, fatigue detection methods are increasingly adopting noninvasive approaches. Such solutions minimize disruptions to workers’ activities while ensuring accurate monitoring. In this paper, we proposed a deep learning-based method that leverages motion and posture data extracted from videos to detect worker fatigue. This approach is both noninvasive and cost-effective, offering practical benefits for industrial applications. 
     </p>
     <p class="card-text">
-      This work has contributed to a papar which was presented at <code>Proceedings of the Canadian Society for Mechanical Engineering International Congress</code> (Montreal, 2025).
-    </p>
+      This work has contributed to a papar which was presented at <code>Proceedings of the Canadian Society for Mechanical Engineering International Congress</code> (Montreal, 2025). <span style="color: #191970;">This is my first time independently completing the entire process of writing a peer-review paper manuscript, preparing the figures, and presenting on an international conference.</span> 
+      </p><a class="btn btn-primary"
+      href="{{ 'assets/papers/csme.pdf' | relative_url }}"
+      target="_blank" rel="noopener">Read the paper (PDF)</a>
+
   </div>
 </div>

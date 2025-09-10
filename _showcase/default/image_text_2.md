@@ -33,7 +33,7 @@ images:
       <span style="color: #00bfa6;">LightPose</span> is a lightweight human pose estimation framework guided by bone segment principles. <span style="color: #00bfa6;">LightPose</span> is designed to balance spatial accuracy with computational efficiency, delivering pose quality comparable to recent sequence-based baselines while remaining lightweight enough for real-time, fatigue-aware analysis. The framework incorporates a dual-stream supervision mechanism that enforces local geometric consistency through mutual prediction between joint pairs on the same bone segment. Additionally, kinematic constraints and fatigue-relevant metric regulations are embedded within the training objective, promoting biomechanical plausibility and alignment with fatigue-related motion patterns. Experimental results on standard 3D pose estimation benchmarks demonstrate that <span style="color: #00bfa6;">LightPose</span> delivers competitive accuracy with reduced computational cost. Further evaluations confirm its effectiveness in estimating fatigue-related kinematic indicators, establishing its suitability for fatigue detection tasks. 
     </p>
     <p class="card-text">
-      The manuscript of this work is submitted to <code>Journal of Industrial Information Integration</code>. And the major revision has been completed. 
+      The manuscript of this work is submitted to <code>Journal of Industrial Information Integration</code>. And the major revision has been completed. <span style="color: #191970;">This is my first time independently completing the entire process of writing a journal paper manuscript, preparing the figures, and responding to reviewers’ comments.</span>
     </p>
   </div>
 </div>
