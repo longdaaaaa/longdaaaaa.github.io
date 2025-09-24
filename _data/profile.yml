@@ -36,15 +36,15 @@ short_bio: >-
   <p>
      <span style="color:#228B22"><strong>- The full cycle: method & experimentation design, scientific visualization, and manuscript writing, etc.</strong></span>
   </p>
-  <p>
-    I've learned:
-  </p>
-  <p>
-     <span style="color:#228B22"><strong>- Interest and real value keep me moving.</strong></span>
-  </p>
-  <p>
-     <span style="color:#228B22"><strong>- Start with small, workable ideas and grow them iteratively, rather than chasing an overly grand goal from the outset.</strong></span>
-  </p>
+  # <p>
+  #   I've learned:
+  # </p>
+  # <p>
+  #    <span style="color:#228B22"><strong>- Interest and real value keep me moving.</strong></span>
+  # </p>
+  # <p>
+  #    <span style="color:#228B22"><strong>- Start with small, workable ideas and grow them iteratively, rather than chasing an overly grand goal from the outset.</strong></span>
+  # </p>
 
 portrait_url: /assets/images/photos/da.png
 portrait_caption: >-
