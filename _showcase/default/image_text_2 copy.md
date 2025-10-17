@@ -1,7 +1,7 @@
 ---
 show: true
 width: 12
-date: 2022-02-12 00:01:00 +0800
+date: 2021-04-12 00:01:00 +0800
 height: 500px                     # 轮播区域的显示高度
 title: Project 1
 images:
@@ -12,7 +12,7 @@ images:
 - src: assets/images/projects/cof2.png
   title: Test Execution
   desc:
-- src: assets/images/projects/grabbing.png
+- src: assets/images/projects/grabbing.jpg
   title: End Position Fine-tuning
 
 ---
